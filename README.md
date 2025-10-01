@@ -40,9 +40,9 @@ Clonar el repositorio:
 git clone https://github.com/tu-usuario/GestorUsuarios.git
 
 
-Abrir el proyecto en IntelliJ IDEA o tu IDE favorito.
+Abre el proyecto en IntelliJ IDEA o tu IDE favorito.
 
-Ejecutar la clase principal:
+Ejecuta la clase principal:
 
 java GestorUsuarios
 
@@ -102,7 +102,7 @@ JFrame (BorderLayout)
 
 Planificación, wireframe, árbol de contenedores y tabla de propiedades en PDF:
 
-📂 Abrir PDF -> 
+📂 Abrir PDF -> https://github.com/JesusMacias29/Paneles-y-Layouts-como-profesionales/blob/main/Tarea%20M%C3%B3dulo%202%20%E2%80%9CPaneles%20y%20Layouts%20como%20profesionales%E2%80%9D%20JES%C3%9AS%20MAC%C3%8DAS.pdf
 
 📝 Conclusión
 
