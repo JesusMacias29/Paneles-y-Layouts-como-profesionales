@@ -37,7 +37,7 @@ Verificar el comportamiento de los componentes al redimensionar la ventana.
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/GestorUsuarios.git
+https://github.com/JesusMacias29/Paneles-y-Layouts-como-profesionales.git
 
 
 Abre el proyecto en IntelliJ IDEA o tu IDE favorito.
